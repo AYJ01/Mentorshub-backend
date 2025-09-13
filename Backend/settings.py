@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$$i_8uva%$_rmbz^3uz3e9!06cyvw782h^k_3-6h54x^h%1gt+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["mentorshub-backend.onrender.com"]
 
 
 # Application definition
